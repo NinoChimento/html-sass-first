@@ -9,3 +9,7 @@ $grandezza : 2em;
 p {
   font-size: $grandezza
 }
+$spazio : 50px;
+h3{
+  padding: $spazio;
+}
